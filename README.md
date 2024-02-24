@@ -8,7 +8,7 @@ cd api
 ##
 uvicorn main:app --reload
 ##
-To start the frontend
+To start the frontend ----->
 ##
 cd frontend
 ##
