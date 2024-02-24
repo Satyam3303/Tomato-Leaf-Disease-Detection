@@ -16,3 +16,14 @@ npm start
 ##
 The model is Pre-Trained on the dataset present in https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf and the saved model is stored in "Models/1"
 ##
+The Classifications are:- 
+Tomato_mosaic_virus
+Target_Spot
+Bacterial_spot
+Tomato_Yellow_Leaf_Curl_Virus
+Late_blight
+Leaf_Mold
+Early_blight
+Spider_mites Two-spotted_spider_mite
+Tomato___healthy
+Septoria_leaf_spot
